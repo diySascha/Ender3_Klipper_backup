@@ -63,3 +63,11 @@ GIT Repo adress: https://github.com/diySascha/Vyper_Klipper
 -------------------------------------------------
 DONE with GIT upload script at 2023-02-05_10:47:46
 -------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-02-12_03:48:16
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
