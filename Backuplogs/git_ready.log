@@ -1,20 +1,5 @@
 origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
 Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
-[master c1426be] Backup_2023_02_16
- 5 files changed, 50 insertions(+)
- create mode 100644 README.md
-GIT Repo adress: https://github.com/diySascha/Ender3_Klipper_backup
--------------------------------------------------
-DONE with GIT upload script at 2023-02-16_23:06:53
--------------------------------------------------
--------------------------------------------------
-START GIT upload script at 2023-02-16_23:12:32
--------------------------------------------------
-origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
-origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
-origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
-origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
-Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
 [master 730e8b2] Backup_2023_02_16
  2 files changed, 23 insertions(+), 10 deletions(-)
 GIT Repo adress: https://github.com/diySascha/Ender3_Klipper_backup
@@ -65,6 +50,21 @@ DONE with GIT upload script at 2023-03-07_19:53:26
 -------------------------------------------------
 -------------------------------------------------
 START GIT upload script at 2023-05-23_21:33:10
+-------------------------------------------------
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
+origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
+Reinitialized existing Git repository in /home/pi/printer_data/config/.git/
+[master dfb9381] Backup_2023_05_23
+ 5 files changed, 846 insertions(+), 21 deletions(-)
+ create mode 100644 printer-20230419_125830.cfg
+GIT Repo adress: https://github.com/diySascha/Ender3_Klipper_backup
+-------------------------------------------------
+DONE with GIT upload script at 2023-05-23_21:33:14
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-05-26_22:00:59
 -------------------------------------------------
 origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (fetch)
 origin	ssh://git@github.com/diySascha/Ender3_Klipper_backup.git (push)
