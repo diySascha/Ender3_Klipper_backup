@@ -1,12 +1,3 @@
--------------------------------------------------
-START GIT upload script at 2023-02-12_14:23:33
--------------------------------------------------
-To ssh://github.com/diySascha/Ender3_Klipper_backup.git
-   54c5750..d0e6a9a  master -> master
--------------------------------------------------
-DONE with GIT upload script at 2023-02-12_14:23:36
--------------------------------------------------
--------------------------------------------------
 START GIT upload script at 2023-02-16_22:57:44
 -------------------------------------------------
 To ssh://github.com/diySascha/Ender3_Klipper_backup.git
@@ -65,4 +56,13 @@ DONE with GIT upload script at 2023-05-23_21:33:14
 -------------------------------------------------
 -------------------------------------------------
 START GIT upload script at 2023-05-26_22:00:59
+-------------------------------------------------
+remote: Resolving deltas:   0% (0/5)        remote: Resolving deltas:  20% (1/5)        remote: Resolving deltas:  40% (2/5)        remote: Resolving deltas:  60% (3/5)        remote: Resolving deltas:  80% (4/5)        remote: Resolving deltas: 100% (5/5)        remote: Resolving deltas: 100% (5/5), completed with 5 local objects.        
+To ssh://github.com/diySascha/Ender3_Klipper_backup.git
+   dfb9381..98656df  master -> master
+-------------------------------------------------
+DONE with GIT upload script at 2023-05-26_22:01:03
+-------------------------------------------------
+-------------------------------------------------
+START GIT upload script at 2023-05-26_23:15:22
 -------------------------------------------------
